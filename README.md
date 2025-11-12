@@ -4,6 +4,12 @@
 | -----|-----|
 | Imam Mahmud Dalil Fauzan | 5027241100 |
 
+> [SOAL](/src/Tugas%202%20Subnetting%20&%20Routing.docx)
+
+> [FILE EXCEL](/src/tabel-vlsm-cidr.xlsx)
+
+> [FILE .PKT](/src/topologi.pkt)
+
 # Topologi
 ![topologi](/src/topologi.png)
 
@@ -24,7 +30,6 @@
 | Sekretariat                        | 380 host      | /23     | 
 | Tunnel / VPN                       | 2 host        | /30     | 
 | **TOTAL**                          | **766 host**  | **/22** | 
-![]()
 
 ## VLSM
 ![vlsm](/src/vlsm.png)
